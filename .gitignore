@@ -26,5 +26,5 @@
 /spring/*.pid
 
 # アップロードされたテスト画像を無視する
-# S3bucketを利用しないのでコメントアウト
-#/public/uploads
+S3bucketを利用しないのでコメントアウト
+/public/uploads
